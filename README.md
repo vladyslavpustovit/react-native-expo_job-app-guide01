@@ -1,3 +1,7 @@
+GUIDE LINK
+https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
